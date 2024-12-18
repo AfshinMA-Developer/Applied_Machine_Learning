@@ -1,0 +1,7 @@
+Github:
+https://github.com/AfshinMA-Developer/Fraud_Detection_Etherium-Streamlit_App.git
+Huggingface:
+https://huggingface.co/spaces/AfshinMA/Fraud_Detection_Etherium-Gradio_App
+https://huggingface.co/spaces/AfshinMA/Fraud_Detection_Etherium-Streamlit_App
+Streamlit:
+https://frauddetectionetherium-appapp-fy2htxetmkegeyuhvyzyqo.streamlit.app/
