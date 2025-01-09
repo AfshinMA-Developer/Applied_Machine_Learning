@@ -1,0 +1,10 @@
+Github:
+https://github.com/AfshinMA-Developer/Traffic_Sign_Detection-Streamlit_App.git
+Kaggle:
+https://www.kaggle.com/code/afshinma/traffic-sign-detection-using-cnn/
+https://www.kaggle.com/code/afshinma/traffic-sign-detection-using-vgg19
+https://www.kaggle.com/code/afshinma/traffic-sign-detection-using-resnet50
+Huggingface:
+https://huggingface.co/spaces/AfshinMA/Traffic_Sign_Detection-Gradio_App
+https://huggingface.co/spaces/AfshinMA/Traffic_Sign_Detection-Streamlit_App
+Streamlit:
