@@ -1,0 +1,8 @@
+Github:
+https://github.com/AfshinMA-Developer/Stock_Price_Prediction.git
+Kaggle:
+https://www.kaggle.com/code/afshinma/apple-stock-price-prediction-using-lstm
+https://www.kaggle.com/code/afshinma/google-stock-price-prediction-using-lstm
+https://www.kaggle.com/code/afshinma/tesla-stock-price-prediction-using-lstm
+Huggingface:
+Streamlit:
