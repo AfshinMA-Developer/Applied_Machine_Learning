@@ -1,0 +1,7 @@
+Github:
+https://github.com/AfshinMA-Developer/Urban_Sound_Prediction.git
+Kaggle:
+https://www.kaggle.com/code/afshinma/urban-sound-prediction-using-ann
+https://www.kaggle.com/code/afshinma/urban-sound-prediction-using-cnn
+Huggingface:
+Streamlit:
