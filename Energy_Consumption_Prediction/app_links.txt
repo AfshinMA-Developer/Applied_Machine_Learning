@@ -1,0 +1,7 @@
+Github:
+https://github.com/AfshinMA-Developer/Stock_Price_Prediction.git
+Kaggle:
+https://www.kaggle.com/code/afshinma/future-energy-consumption-prediction-using-xgboost
+https://www.kaggle.com/code/afshinma/future-energy-consumption-prediction-rnn-lstm
+Huggingface:
+Streamlit:
